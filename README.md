@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile!
 
-<p class="fade-in">Hello World!</p>
+
 
 
 <!--
